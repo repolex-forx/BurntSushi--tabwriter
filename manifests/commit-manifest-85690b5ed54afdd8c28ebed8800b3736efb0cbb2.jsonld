@@ -42,9 +42,15 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 8437
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/85690b5ed54afdd8c28ebed8800b3736efb0cbb2/chunk-001.nq.gz",
+      "repolex:graphFileSize": 408213
     }
   ],
-  "repolex:parseStatus": "metadata_complete",
+  "repolex:parseStatus": "ast_complete",
   "repolex:parsedAt": "2026-11-22T14:26:34.809442+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "tabwriter-bin-0.2.2"
