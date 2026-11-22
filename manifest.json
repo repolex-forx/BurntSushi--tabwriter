@@ -30,6 +30,20 @@
       ],
       "ast": [
         "aggregate/ast/85690b5ed54afdd8c28ebed8800b3736efb0cbb2/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/85690b5ed54afdd8c28ebed8800b3736efb0cbb2.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "unicode-width",
+          "ecosystem": "CARGO",
+          "version": "0.2.0",
+          "githubOrg": "unicode-rs",
+          "githubRepo": "unicode-width",
+          "githubCommit": "79eab0d9fc2060783b43046f9611648dcd35172f",
+          "githubTag": "v0.2.0",
+          "githubUrl": "https://github.com/unicode-rs/unicode-width",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
