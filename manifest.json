@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "BurntSushi",
+  "repo": "tabwriter",
+  "versions": [
+    {
+      "commit": "85690b5ed54afdd8c28ebed8800b3736efb0cbb2",
+      "parsed_at": "2026-11-22T14:26:34.809442+00:00",
+      "tag": "tabwriter-bin-0.2.2",
+      "filetree": "filetree/85690b5ed54afdd8c28ebed8800b3736efb0cbb2.nq.gz",
+      "blobs": [
+        "blob/bb9c20a094e41b7632d63bcff20c0b4b95e80777.nq.gz",
+        "blob/6a9db4767826cfd2c0344a92dc68f9b5d237d59c.nq.gz",
+        "blob/3b0a5dc09c1e16357459ddc9182a50f360f3cdba.nq.gz",
+        "blob/a07797915fb8d3c35f767b1f2739e833f542cd61.nq.gz",
+        "blob/2869fec98f72fbe4b7ea36d5128ee1650cb34370.nq.gz",
+        "blob/a3344b8239f514d14122a89c45b535acc03b33dc.nq.gz",
+        "blob/f7bcf5e94d1ed3b988310393f52c4ef87b26dd14.nq.gz",
+        "blob/9a61c724e023c3a6cd0cfabefa8779bc3286f370.nq.gz",
+        "blob/213c95660bcd3fef5d156508b6792471e473c349.nq.gz",
+        "blob/2ea7420d4ec49efa257c3bf3dffb48a19f067338.nq.gz",
+        "blob/4af789ea6b8fff2cb0b996c80ff39eb0866c2cbc.nq.gz",
+        "blob/a949e53b97e86ef86c8ff2cddb2f658a80c37b70.nq.gz",
+        "blob/6e2959d63f549f91cc04daa3383b5f19fef3661d.nq.gz",
+        "blob/db025d912f570983a0a18acb7e6ad08578af5add.nq.gz",
+        "blob/9da4a887b378612ab61c056f3f007272386bdaeb.nq.gz",
+        "blob/aa37a218b97e5f6ad37a74a62b50727279a5e460.nq.gz",
+        "blob/68a49daad8ff7e35068f2b7a97d643aab440eaec.nq.gz",
+        "blob/72d19fbc142582ac6f1e5df590c3cbfbda1b08fa.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
