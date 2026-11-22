@@ -1,0 +1,11 @@
+{
+  "org": "BurntSushi",
+  "repo": "tabwriter",
+  "versions": [
+    {
+      "commit": "85690b5ed54afdd8c28ebed8800b3736efb0cbb2",
+      "tag": "tabwriter-bin-0.2.2",
+      "parsed_at": "2026-11-22T14:33:12.031968+00:00"
+    }
+  ]
+}
