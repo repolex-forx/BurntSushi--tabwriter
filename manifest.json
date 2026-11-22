@@ -44,7 +44,9 @@
           "githubUrl": "https://github.com/unicode-rs/unicode-width",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/85690b5ed54afdd8c28ebed8800b3736efb0cbb2/chunk-001.nq.gz",
+      "dep": "dep/85690b5ed54afdd8c28ebed8800b3736efb0cbb2.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
